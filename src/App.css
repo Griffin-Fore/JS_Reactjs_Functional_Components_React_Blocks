@@ -1,0 +1,10 @@
+.appBorderStyle{
+    background-color: #dddddd;
+    padding: 40px;
+    margin: 40px;
+    height: 860px;
+    border: 2px solid black;
+}
+.appItemsStyle {
+    display:flex;
+}
